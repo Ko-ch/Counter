@@ -93,12 +93,53 @@
       <option name="project" value="LOCAL" />
       <updated>1567924307645</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="クラス / インスタンス / Attribute(属性) / オブジェクト">
+      <created>1567944095508</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567944095508</updated>
+    </task>
+    <task id="LOCAL-00004" summary="クラス / インスタンス / Attribute(属性) / オブジェクト">
+      <created>1567944245968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567944245968</updated>
+    </task>
+    <task id="LOCAL-00005" summary="インスタンス変数と呼ぶらしい">
+      <created>1567944283755</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567944283755</updated>
+    </task>
+    <task id="LOCAL-00006" summary="インスタンス変数と呼ぶらしい">
+      <created>1567944302890</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567944302890</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="クラス / インスタンス / Attribute(属性) / オブジェクト" />
+    <MESSAGE value="インスタンス変数と呼ぶらしい" />
+    <option name="LAST_COMMIT_MESSAGE" value="インスタンス変数と呼ぶらしい" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
