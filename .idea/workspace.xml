@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0212f4a-0a4f-483f-aae0-847960880e90" name="Default Changelist" comment="">
+    <list default="true" id="c0212f4a-0a4f-483f-aae0-847960880e90" name="Default Changelist" comment="インスタンスメソッド / なんか関数と同じか？">
+      <change afterPath="$PROJECT_DIR$/product.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/user.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QXkAGnLNiw6kxSMEcjZocrjON8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -40,7 +42,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.product">
+    <configuration name="product" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="class-sample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/product.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="user" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="class-sample" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.product" />
         <item itemvalue="Python.user" />
       </list>
     </recent_temporary>
@@ -121,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567944302890</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="インスタンスメソッド / なんか関数と同じか？">
+      <created>1567946336804</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567946336804</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,7 +170,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="クラス / インスタンス / Attribute(属性) / オブジェクト" />
     <MESSAGE value="インスタンス変数と呼ぶらしい" />
-    <option name="LAST_COMMIT_MESSAGE" value="インスタンス変数と呼ぶらしい" />
+    <MESSAGE value="インスタンスメソッド / なんか関数と同じか？" />
+    <option name="LAST_COMMIT_MESSAGE" value="インスタンスメソッド / なんか関数と同じか？" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
