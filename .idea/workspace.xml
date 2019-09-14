@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0212f4a-0a4f-483f-aae0-847960880e90" name="Default Changelist" comment="インスタンスメソッド / なんか関数と同じか？">
-      <change afterPath="$PROJECT_DIR$/product.py" afterDir="false" />
+    <list default="true" id="c0212f4a-0a4f-483f-aae0-847960880e90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/memo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/product.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567946336804</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="製品情報を出力できるアプリを作成している。&#10;名前 / 値段">
+      <created>1567950906670</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567950906670</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,7 +168,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -171,7 +181,8 @@
     <MESSAGE value="クラス / インスタンス / Attribute(属性) / オブジェクト" />
     <MESSAGE value="インスタンス変数と呼ぶらしい" />
     <MESSAGE value="インスタンスメソッド / なんか関数と同じか？" />
-    <option name="LAST_COMMIT_MESSAGE" value="インスタンスメソッド / なんか関数と同じか？" />
+    <MESSAGE value="製品情報を出力できるアプリを作成している。&#10;名前 / 値段" />
+    <option name="LAST_COMMIT_MESSAGE" value="製品情報を出力できるアプリを作成している。&#10;名前 / 値段" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
