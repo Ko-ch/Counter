@@ -16,7 +16,6 @@ class Counter_1:
         self.value -= 1
         return self
 
-
 if __name__ == "__main__":
     counter_1 = Counter_1(15)
     print(counter_1.value)
