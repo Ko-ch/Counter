@@ -3,11 +3,13 @@ class Counter_1:
         self.value = value
 
     def increase(self):
-        self.value += 1
-        if self.value < 0:
-            self.value += 4
+        if self.value <= 0:
+            self.value += 5
+            return self
         if self.value > 14:
-            self.value += 2
+            self.value += 3
+            return self
+        self.value += 1
         return self
 
     def decrease(self):

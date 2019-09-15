@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0212f4a-0a4f-483f-aae0-847960880e90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conuter.py" beforeDir="false" afterPath="$PROJECT_DIR$/conuter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -224,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568530850985</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="modify:x =&lt; 0 =&gt; +5&#10;       x &gt; 0 =&gt; +1&#10;       x &gt; 14 =&gt; +3">
+      <created>1568532624782</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568532624782</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,7 +255,8 @@
     <MESSAGE value="インスタンスなどなど&#10;意味はさておき、何かクラス構文を覚えたぞ" />
     <MESSAGE value="英圏と日本圏のフルネームの出力方法の、インスタンスメソッドを作成したよ" />
     <MESSAGE value="I made counter.py.&#10;class:Counter defined&#10;instance variables:value =&gt; get a number&#10;instance method:increase,decrease =&gt; add 1 or -1" />
-    <option name="LAST_COMMIT_MESSAGE" value="I made counter.py.&#10;class:Counter defined&#10;instance variables:value =&gt; get a number&#10;instance method:increase,decrease =&gt; add 1 or -1" />
+    <MESSAGE value="modify:x =&lt; 0 =&gt; +5&#10;       x &gt; 0 =&gt; +1&#10;       x &gt; 14 =&gt; +3" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify:x =&lt; 0 =&gt; +5&#10;       x &gt; 0 =&gt; +1&#10;       x &gt; 14 =&gt; +3" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
