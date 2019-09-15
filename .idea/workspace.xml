@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0212f4a-0a4f-483f-aae0-847960880e90" name="Default Changelist" comment="英圏と日本圏のフルネームの出力方法の、インスタンスメソッドを作成したよ">
-      <change afterPath="$PROJECT_DIR$/conuter.py" afterDir="false" />
+    <list default="true" id="c0212f4a-0a4f-483f-aae0-847960880e90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conuter.py" beforeDir="false" afterPath="$PROJECT_DIR$/conuter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,8 +130,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.conuter" />
-        <item itemvalue="Python.customer" />
         <item itemvalue="Python.product" />
+        <item itemvalue="Python.customer" />
         <item itemvalue="Python.user" />
       </list>
     </recent_temporary>
@@ -217,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568476939844</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="I made counter.py.&#10;class:Counter defined&#10;instance variables:value =&gt; get a number&#10;instance method:increase,decrease =&gt; add 1 or -1">
+      <created>1568530850985</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568530850985</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,7 +248,8 @@
     <MESSAGE value="製品情報を出力できるアプリを作成している。&#10;名前 / 値段" />
     <MESSAGE value="インスタンスなどなど&#10;意味はさておき、何かクラス構文を覚えたぞ" />
     <MESSAGE value="英圏と日本圏のフルネームの出力方法の、インスタンスメソッドを作成したよ" />
-    <option name="LAST_COMMIT_MESSAGE" value="英圏と日本圏のフルネームの出力方法の、インスタンスメソッドを作成したよ" />
+    <MESSAGE value="I made counter.py.&#10;class:Counter defined&#10;instance variables:value =&gt; get a number&#10;instance method:increase,decrease =&gt; add 1 or -1" />
+    <option name="LAST_COMMIT_MESSAGE" value="I made counter.py.&#10;class:Counter defined&#10;instance variables:value =&gt; get a number&#10;instance method:increase,decrease =&gt; add 1 or -1" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
